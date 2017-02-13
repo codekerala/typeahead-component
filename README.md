@@ -2,7 +2,7 @@
 
 > A Simple typeahead component with vue.js 2
 
-![alt tag](https://github.com/codekera/typeahead-component/raw/master/sr.png)
+![alt tag](https://github.com/codekerala/typeahead-component/raw/master/sr.png)
 
 ## Build Setup
 
